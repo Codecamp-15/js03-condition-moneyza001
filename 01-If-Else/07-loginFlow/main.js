@@ -13,7 +13,7 @@ else if(userName == 'admin' && password == '1234') {
 else if(userName == 'john' && password == 'qwerty') {
         alert(`Hello ${userName} `)
         
-    }
+}
 else {
     alert('invalid username or password')
 }
